@@ -1,0 +1,3 @@
+Content\archerXact.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

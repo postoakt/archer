@@ -1,0 +1,42 @@
+Content\Player\bow.xnb
+Content\Player\player.xnb
+Content\Player\Crosshairs.xnb
+Content\Player\arrow.xnb
+Content\Menu\background.xnb
+Content\Menu\archer.xnb
+Content\Menu\target.xnb
+Content\Menu\exit.xnb
+Content\Nyan\nyan1.xnb
+Content\Nyan\nyan2.xnb
+Content\Nyan\nyandead.xnb
+Content\Bear\bearSheet.xnb
+Content\Bear\bearwalk.xnb
+Content\Menu\bear.xnb
+Content\Menu\VisitorBrk.xnb
+Content\Bear\bearroll.xnb
+Content\Bear\beardead.xnb
+Content\Bear\bearjump.xnb
+Content\BearFrames\bearJump1.xnb
+Content\BearFrames\bearJump2.xnb
+Content\BearFrames\bearRoll1.xnb
+Content\BearFrames\bearRoll2.xnb
+Content\BearFrames\bearRoll3.xnb
+Content\BearFrames\bearRoll4.xnb
+Content\BearFrames\bearWalk1.xnb
+Content\BearFrames\bearWalk2.xnb
+Content\BearFrames\bearWalk3.xnb
+Content\BearFrames\bearWalk4.xnb
+Content\Menu\AB-Bear.xnb
+Content\bullsEye.xnb
+Content\Menu\login.xnb
+Content\Menu\LoginMenu.xnb
+Content\Menu\xButton.xnb
+Content\Menu\Cursor.xnb
+Content\Menu\Font.xnb
+Content\mainTheme.xnb
+Content\Nyan Cat.xnb
+Content\meow.xnb
+Content\thud.xnb
+Content\archerXact.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

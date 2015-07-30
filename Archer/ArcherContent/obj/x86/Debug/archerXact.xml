@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 3171613630;
+    Bank Last Revised High = 30337649;
+
+    Wave
+    {
+        Name = mainTheme;
+        File = mainTheme.wav;
+        Build Settings Last Modified Low = 2853233452;
+        Build Settings Last Modified High = 30337638;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 24936448;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1392235206;
+            Last Modified High = 30337636;
+        }
+    }
+
+    Wave
+    {
+        Name = Nyan Cat;
+        File = Nyan Cat.wav;
+        Build Settings Last Modified Low = 3641395198;
+        Build Settings Last Modified High = 30337638;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 38237184;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2728120448;
+            Last Modified High = 30331976;
+        }
+    }
+
+    Wave
+    {
+        Name = meow;
+        File = meow.wav;
+        Build Settings Last Modified Low = 2937697250;
+        Build Settings Last Modified High = 30337649;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 131840;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2781242655;
+            Last Modified High = 30337649;
+        }
+    }
+
+    Wave
+    {
+        Name = thud;
+        File = thud.wav;
+        Build Settings Last Modified Low = 2994395159;
+        Build Settings Last Modified High = 30337649;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 29988;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 884182635;
+            Last Modified High = 30337649;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

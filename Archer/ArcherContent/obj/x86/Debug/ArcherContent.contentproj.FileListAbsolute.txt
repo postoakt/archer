@@ -1,0 +1,8 @@
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\ArcherContent.contentprojResolveAssemblyReference.cache
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\archerXact.xml
+E:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\ArcherContent.contentprojResolveAssemblyReference.cache
+E:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\archerXact.xml
+F:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\ArcherContent.contentprojResolveAssemblyReference.cache
+F:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\archerXact.xml
+F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\ArcherContent.contentprojResolveAssemblyReference.cache
+F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\archerXact.xml

@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player\bow.png</Source>
+      <Name>Player\bow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Player\bow.xnb</Output>
+      <Time>2015-04-14T15:43:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player.png</Source>
+      <Name>Player\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Player\player.xnb</Output>
+      <Time>2015-04-14T15:43:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Crosshairs.png</Source>
+      <Name>Player\Crosshairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Player\Crosshairs.xnb</Output>
+      <Time>2015-04-14T15:43:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\arrow.png</Source>
+      <Name>Player\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Player\arrow.xnb</Output>
+      <Time>2015-04-14T15:43:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\background.png</Source>
+      <Name>Menu\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\background.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\archer.png</Source>
+      <Name>Menu\archer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\archer.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\target.png</Source>
+      <Name>Menu\target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\target.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\exit.png</Source>
+      <Name>Menu\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\exit.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nyan\nyan1.png</Source>
+      <Name>Nyan\nyan1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Nyan\nyan1.xnb</Output>
+      <Time>2015-04-14T15:42:19-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nyan\nyan2.png</Source>
+      <Name>Nyan\nyan2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Nyan\nyan2.xnb</Output>
+      <Time>2015-04-14T15:42:19-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nyan\nyandead.png</Source>
+      <Name>Nyan\nyandead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Nyan\nyandead.xnb</Output>
+      <Time>2015-04-14T15:42:19-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear\bearSheet.png</Source>
+      <Name>Bear\bearSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Bear\bearSheet.xnb</Output>
+      <Time>2015-04-14T15:41:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear\bearwalk.png</Source>
+      <Name>Bear\bearwalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Bear\bearwalk.xnb</Output>
+      <Time>2015-04-14T15:41:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bear.png</Source>
+      <Name>Menu\bear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\bear.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\VisitorBrk.bmp</Source>
+      <Name>Menu\VisitorBrk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\VisitorBrk.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear\bearroll.png</Source>
+      <Name>Bear\bearroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Bear\bearroll.xnb</Output>
+      <Time>2015-04-14T15:41:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear\beardead.png</Source>
+      <Name>Bear\beardead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Bear\beardead.xnb</Output>
+      <Time>2015-04-14T15:41:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear\bearjump.png</Source>
+      <Name>Bear\bearjump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Bear\bearjump.xnb</Output>
+      <Time>2015-04-14T15:41:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearJump1.png</Source>
+      <Name>BearFrames\bearJump1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearJump1.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearJump2.png</Source>
+      <Name>BearFrames\bearJump2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearJump2.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearRoll1.png</Source>
+      <Name>BearFrames\bearRoll1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearRoll1.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearRoll2.png</Source>
+      <Name>BearFrames\bearRoll2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearRoll2.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearRoll3.png</Source>
+      <Name>BearFrames\bearRoll3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearRoll3.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearRoll4.png</Source>
+      <Name>BearFrames\bearRoll4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearRoll4.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearWalk1.png</Source>
+      <Name>BearFrames\bearWalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearWalk1.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearWalk2.png</Source>
+      <Name>BearFrames\bearWalk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearWalk2.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearWalk3.png</Source>
+      <Name>BearFrames\bearWalk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearWalk3.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BearFrames\bearWalk4.png</Source>
+      <Name>BearFrames\bearWalk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\BearFrames\bearWalk4.xnb</Output>
+      <Time>2015-04-14T15:41:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\AB-Bear.png</Source>
+      <Name>Menu\AB-Bear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\AB-Bear.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullsEye.png</Source>
+      <Name>bullsEye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\bullsEye.xnb</Output>
+      <Time>2015-04-14T15:40:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\login.png</Source>
+      <Name>Menu\login</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\login.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\LoginMenu.jpg</Source>
+      <Name>Menu\LoginMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\LoginMenu.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\xButton.jpg</Source>
+      <Name>Menu\xButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\xButton.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Cursor.jpg</Source>
+      <Name>Menu\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\Cursor.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Font.spritefont</Source>
+      <Name>Menu\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Menu\Font.xnb</Output>
+      <Time>2015-04-14T15:41:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainTheme.wav</Source>
+      <Name>mainTheme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\mainTheme.xnb</Output>
+      <Time>2015-04-14T15:40:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nyan Cat.wav</Source>
+      <Name>Nyan Cat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\Nyan Cat.xnb</Output>
+      <Time>2015-04-14T15:40:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>meow.wav</Source>
+      <Name>meow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\meow.xnb</Output>
+      <Time>2015-04-14T15:40:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>thud.wav</Source>
+      <Name>thud</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\thud.xnb</Output>
+      <Time>2015-04-14T15:40:29-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\ArcherContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Brogramming\Visual Studio 2010 Projects\Visual C# Xna\Archer\Archer\Archer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-28T09:14:10.1338848-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
